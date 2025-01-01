@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/system verilog/sv/APB/SIM
+T_opt
+!s110 1732687972
+VJT^2>@SGPYc7L^f<>Y_T63
+04 10 4 work apb_tb_top fast 0
+=1-b047e93b5beb-6746b864-185-42e4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vAMBA_APB
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1732688117
+!i10b 1
+!s100 D8ZX_baU?LjENC`?KY]_X2
+IUgQhjj[U@GEjGD>Mf5iH81
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 amba_apb_sv_unit
+S1
+R0
+Z5 w1732125937
+8../RTL/amba_apb.sv
+F../RTL/amba_apb.sv
+L0 5
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1732688117.000000
+!s107 ../TEST/apb_base_test.sv|../TEST/apb_ibr.sv|../TEST/apb_b2b.sv|../TEST/apb_read_only.sv|../TEST/apb_write_only.sv|../ENV/apb_env.sv|../ENV/apb_scoreboard.sv|../ENV/apb_ref_model.sv|../ENV/apb_monitor.sv|../ENV/apb_driver.sv|../ENV/apb_genrator.sv|../ENV/apb_trans.sv|../ENV/apb_defines.sv|../ENV/apb_inf.sv|../TOP/apb_tb_top.sv|../TEST/apb_pkg.sv|../RTL/amba_apb.sv|
+Z8 !s90 ../RTL/amba_apb.sv|../TEST/apb_pkg.sv|../TOP/apb_tb_top.sv|+incdir+../ENV|+incdir+../TEST|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 +incdir+../ENV +incdir+../TEST -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@m@b@a_@a@p@b
+Yapb_inf
+R2
+R3
+!i10b 1
+!s100 `YT8eH4O>UkMd9X=fNO9c1
+ImjP9MTGgCQjB^hB:SZ]960
+R4
+!s105 apb_pkg_sv_unit
+S1
+R0
+w1732125936
+8../ENV/apb_inf.sv
+F../ENV/apb_inf.sv
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 ../TEST/apb_base_test.sv|../TEST/apb_ibr.sv|../TEST/apb_b2b.sv|../TEST/apb_read_only.sv|../TEST/apb_write_only.sv|../ENV/apb_env.sv|../ENV/apb_scoreboard.sv|../ENV/apb_ref_model.sv|../ENV/apb_monitor.sv|../ENV/apb_driver.sv|../ENV/apb_genrator.sv|../ENV/apb_trans.sv|../ENV/apb_defines.sv|../ENV/apb_inf.sv|../TOP/apb_tb_top.sv|../TEST/apb_pkg.sv|../RTL/amba_apb.sv|
+R8
+!i113 0
+R9
+R10
+R1
+Xapb_pkg
+!s115 apb_inf
+R2
+R3
+!i10b 1
+!s100 BdPI2NE991B9W^^CON=;;0
+IoR@JF]7[0B;Eolg6JN0US1
+VoR@JF]7[0B;Eolg6JN0US1
+S1
+R0
+R5
+8../TEST/apb_pkg.sv
+F../TEST/apb_pkg.sv
+F../ENV/apb_defines.sv
+F../ENV/apb_trans.sv
+F../ENV/apb_genrator.sv
+F../ENV/apb_driver.sv
+F../ENV/apb_monitor.sv
+F../ENV/apb_ref_model.sv
+F../ENV/apb_scoreboard.sv
+F../ENV/apb_env.sv
+F../TEST/apb_write_only.sv
+F../TEST/apb_read_only.sv
+F../TEST/apb_b2b.sv
+F../TEST/apb_ibr.sv
+F../TEST/apb_base_test.sv
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+R1
+vapb_tb_top
+R2
+DXx4 work 7 apb_pkg 0 22 oR@JF]7[0B;Eolg6JN0US1
+R3
+!i10b 1
+!s100 P0RA9TD<No0PlaVjZ9I?m0
+IVGAeJZOMKTkB_@oAfZTDi0
+R4
+!s105 apb_tb_top_sv_unit
+S1
+R0
+R5
+8../TOP/apb_tb_top.sv
+F../TOP/apb_tb_top.sv
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+R1

@@ -1,0 +1,18 @@
+
+//considering pwd is SIM (recommended absolute path)
+//compilation
+vlog ../RTL/ram_16x8.v ../TEST/ram_pkg.sv ../TOP/ram_tb_top.sv +incdir+../ENV +incdir+../TEST
+						  
+						  
+//simulation
+vsim -novopt <top_module>
+vsim -voptargs=+acc ram_tb_top -c -do "run -all; exit"
+
+//step to follow specially when you are new to this (strictly follow this)
+1) Complete the architecture code (skeleton)
+2) Implement the driver logic
+3) Implement the monitor logic
+4) Implemnet other component i.e. ref_model, scoreboard, coverage collector etc.
+Important note: After every stpe make sure compilation and simualtion is 
+                error free. 
+				And each component is working properly (not applicable for first step)
