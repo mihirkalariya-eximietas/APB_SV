@@ -1,5 +1,5 @@
 `ifndef APB_DEFINES_SV
-`define APB_DEFINES_SV
+`define APB_DEFINES_VS
 
 `define ADDR_WIDTH 4
 `define DATA_WIDTH 8 
